@@ -1,0 +1,9 @@
+# Large data files (exceeds GitHub's 100MB limit)
+AIML Dataset.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
